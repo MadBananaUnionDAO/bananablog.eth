@@ -49,6 +49,15 @@ main {
   padding: 20px;
 }
 
+h2 {
+  font-size: 32px;
+  margin-top: 0;
+}
+
+p {
+  font-size: 18px;
+}
+
 /* Footer Styles */
 footer {
   background-color: #f2f2f2;
