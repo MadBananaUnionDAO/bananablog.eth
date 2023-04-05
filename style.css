@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #fff;
+  font-family: 'survivant', Arial, sans-serif;
+  background-color: #ffd800;
   color: #333;
   margin: 0;
   padding: 0;
@@ -64,4 +64,10 @@ footer {
   padding: 20px;
   text-align: center;
   font-size: 12px;
+}
+
+/* Custom Font */
+@font-face {
+  font-family: 'survivant';
+  src: url('survivant.ttf') format('truetype');
 }
