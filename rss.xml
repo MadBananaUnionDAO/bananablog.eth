@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>My RSS Feed</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0">
+		<channel>
+			<title>My RSS Feed</title>
+			<link>http://example.com/</link>
+			<description>This is my RSS feed.</description>
+			<item>
+				<title>My First Post</title>
+				<link>http://example.com/first-post</link>
+				<description>This is the first post in my RSS feed.</description>
+				<pubDate>Mon, 01 Jan 2023 00:00:00 -0000</pubDate>
+			</item>
+			<item>
+				<title>My Second Post</title>
+				<link>http://example.com/second-post</link>
+				<description>This is the second post in my RSS feed.</description>
+				<pubDate>Tue, 02 Jan 2023 00:00:00 -0000</pubDate>
+			</item>
+		</channel>
+	</rss>
+</body>
+</html>
+
