@@ -31,6 +31,19 @@ h1 {
   color: #333;
 }
 
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
 /* Navigation Styles */
 nav {
   display: flex;
@@ -53,20 +66,6 @@ li {
 main {
   padding: 20px;
   font-size: 22px;
-}
-
-h2 {
-  font-size: 30px;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-}
-
-h3 {
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
 }
 
 p {
