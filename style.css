@@ -5,6 +5,7 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  font-size: 24px;
 }
 
 a {
@@ -20,10 +21,14 @@ a:hover {
 header {
   background-color: #f2f2f2;
   padding: 20px;
+font-size: 34px;
 }
 
 h1 {
-  margin: 0;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
 }
 
 /* Navigation Styles */
@@ -47,11 +52,21 @@ li {
 /* Main Content Styles */
 main {
   padding: 20px;
+  font-size: 22px;
 }
 
 h2 {
-  font-size: 32px;
-  margin-top: 0;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
 }
 
 p {
@@ -63,7 +78,7 @@ footer {
   background-color: #f2f2f2;
   padding: 20px;
   text-align: center;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 /* Custom Font */
