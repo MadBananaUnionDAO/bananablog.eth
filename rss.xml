@@ -12,7 +12,7 @@
 			<description>This is the first post in my RSS feed.</description>
 			<author>John Smith</author>
       			<category>Technology</category>
-      			<subcategory>Culture</category>
+      			<subcategory>Culture</subcategory>
 			<pubDate>Mon, 01 Jan 2023 00:00:00 -0000</pubDate>
 		</item>
 		<item>
@@ -21,7 +21,7 @@
 			<description>This is the second post in my RSS feed.</description>
 			<author>John Smith</author>
       			<category>Technology</category>
-      			<subcategory>Culture</category>
+      			<subcategory>Culture</subcategory>
 			<pubDate>Tue, 02 Jan 2023 00:00:00 -0000</pubDate>
 		</item>
 	</channel>
