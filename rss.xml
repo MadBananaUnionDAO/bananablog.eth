@@ -4,9 +4,8 @@
 	<meta charset="UTF-8">
 	<title>My RSS Feed</title>
 </head>
-<body>
-	<?xml version="1.0" encoding="UTF-8"?>
-	<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
 		<channel>
 			<title>My RSS Feed</title>
 			<link>http://example.com/</link>
@@ -25,6 +24,5 @@
 			</item>
 		</channel>
 	</rss>
-</body>
 </html>
 
