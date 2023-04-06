@@ -11,8 +11,8 @@
 			<link>http://example.com/first-post</link>
 			<description>This is the first post in my RSS feed.</description>
 			<author>John Smith</author>
-      			<category>Technology</category>
-      			<subcategory>Culture</subcategory>
+			<category>Technology</category>
+			<subcategory>Culture</subcategory>
 			<pubDate>Mon, 01 Jan 2023 00:00:00 -0000</pubDate>
 		</item>
 		<item>
