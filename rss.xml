@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="UTF-8">
-	<title>My RSS Feed</title>
-</head>
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<title>My RSS Feed</title>
+	<rss version="2.0">
 		<channel>
 			<title>My RSS Feed</title>
 			<link>http://example.com/</link>
