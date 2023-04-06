@@ -77,7 +77,10 @@ img {
 }
 
 p {
-  font-size: 20px;
+	font-size: 20px;
+	border: 10px solid black;
+	padding: 10px;
+	align: center;
 }
 
 /* Footer Styles */
